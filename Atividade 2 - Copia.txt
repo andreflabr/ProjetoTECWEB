@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta property="og:image" content="img/meta.jpg" />
+    <meta property="og:description" content="Non-fungible token" />
+    <meta property="og:title" content="O que são NFTs?" />
+
+    <meta name="twitter:image" content="" />
+    <meta
+      name="twitter:url"
+      content="https://panoramacrypto.com.br/o-que-sao-tokens-nao-fungiveis-e-como-eles-podem-pegar-carona-no-defi/?gclid=CjwKCAjwrfCRBhAXEiwAnkmKmat1Rc6Nj6rD25oMpzJ_WhaaKMSYudevR3dysuF8VWscM5otQkL9choCIncQAvD_BwE"
+    />
+
+    <title>O que são NFTs?</title>
+
+    <link
+      rel="shortcut icon"
+      href="img/icons8-nft-64.ico"
+      type="image/x-icon"
+    />
+
+    <style>
+      body {
+        position: center;
+        font-size: 25px;
+      }
+    </style>
+  </head>
+  <body>
+    <center><img src="img/nft.png" alt="NFT" /></center>
+    
+    <h1><center>O que são NFTs?</center></h1>
+
+    <div>
+      <div>
+        <ul>
+        <li>
+          <strong>O que são ?</strong>
+          <p>
+        <dfn>NFT</dfn> é a sigla para non-fungible token , ou token não
+        fungível, um ativo criado a partir da tecnologia blockchain que serve
+        como identidade digital de um item. O
+        <a
+          href="https://academy.binance.com/pt/articles/how-to-make-your-own-nfts?utm_campaign=googleadsxacademy&utm_source=googleadwords_int&utm_medium=cpc&gclid=CjwKCAjwrfCRBhAXEiwAnkmKmTCE_Algq66S4RgBGl1AMIRWQvBNrvUsUzKSM9lS_5H5D11jr6P5vBoCtQgQAvD_BwE"
+          >NFT</a
+        >
+        assegura a autenticidade daquele item, que é único. Ou seja, o ativo
+        garante a posse de um bem exclusivo, que nenhuma outra pessoa tem. Para
+        compreender melhor, imagine a famosa pintura Mona Lisa. A obra original,
+        pintada por Leonardo da Vinci, encontra-se no Museu do Louvre, em Paris.
+        Você pode comprar um poster com a imagem da “Gioconda” ou uma reprodução
+        praticamente igual pintada a óleo, mas nenhuma dessas cópias chegará
+        perto do valor da pintura original. Tomando como exemplo o mundo da
+        arte, o NFT pode servir para atestar a originalidade da obra digital —
+        como os desenhos de macacos comprados por Neymar e Bieber — ou até mesmo
+        física. Nesse caso, funcionaria como um documento de registro digital da
+        obra.
+      </p>
+        </li>
+        <li>
+          <strong>
+            Onde ficam esses tokens?
+          </strong>
+          <p>Da mesma forma que tokens e criptomoedas, eles são parte de uma blockchain, como a Ethereum ou outras. Mas carregam informações diferentes, que fazem com que ele funcionem diferente de um token como o ETH.</p>
+        </li>
+        <li>
+          <strong>
+            Onde comprar NFTs de obra de arte ?
+          </strong>
+          <p>Existem vários mercados que surgiram em torno dos NFTs, que permitem que as pessoas comprem e vendam. Isso inclui OpenSea, Rarible e a escolha da Grimes, Nifty Gateway.</p>
+        </li>
+        <h2>Onde posso acompanhar os valores das Criptomoedas?</h2>
+        <p><dfn>Coinbase</dfn> é uma casa de câmbio digital com sede em São Francisco, Califórnia. A empresa intermedia trocas de Bitcoin, Bitcoin Cash, Ethereum, Ethereum Classic, Litecoin, Tezos e muitas outras </p>
+        <p>O link abaixo mostrará como funciona o Coinbase.</p>
+        <center>
+          <iframe width="560" height="350" src="https://www.youtube.com/embed/Fie21Yjlq0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </center>
+      </ul>
+      </div>
+      
+      <footer>
+        <center><p>Tecnologia web - 25/03/2022</p></center>
+    </footer>
+
+
+      
+    </div>
+  </body>
+</html>
