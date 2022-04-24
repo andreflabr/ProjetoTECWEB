@@ -75,7 +75,6 @@ nav li {
 
 nav ul {
   display: flex;
-
 }
 
 nav a {
@@ -107,7 +106,6 @@ nav a:hover {
 
 article {
   flex: 1;
-
   min-width: 300px;
 }
 
@@ -121,7 +119,6 @@ article {
 .flex {
   display: flex;
   flex-wrap: wrap;
-
 }
 
 #banner {
@@ -130,7 +127,6 @@ article {
   background-position: center;
   background-size: cover;
   height: 500;
-
 }
 
 #geral {
@@ -192,7 +188,6 @@ article .titulo.mini {
   margin-top: 10px;
   font-size: 16px;
   color: black;
-
 }
 
 .footer_menu {
@@ -207,7 +202,6 @@ article .titulo.mini {
   flex: 1;
   padding: 20px;
   color: white;
-
 }
 
 .fm_1 {
@@ -273,7 +267,6 @@ article .titulo.mini {
 .banner2 {
   grid-area: banner2;
   background-color: black;
-
   background-image: url(img/nft_macacos.jpeg);
 }
 
@@ -353,10 +346,4 @@ background-color: #F7931A;
 
 .icones { grid-area: icones;
 background-color: white; 
-
 margin-left: 30px;}
-
-
-
-
-
